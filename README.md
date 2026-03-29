@@ -10,40 +10,38 @@ A simple Python project that generates strong passwords and saves them to a file
 - Beginner-friendly project
 
 ## Installation
-python -m venv venv
- .\venv\Scripts\Activate
- python -m pip install psycopg2-binary
+
+pip install 
 
 ## How to Run
+
 run program:
 python passowrd_generator.py
 
 ## Input Example
- Password Generator & Saver
+Password Generator and Save
 Enter website name: facebook
-Enter username/email: salina@gmail.com
-Enter password length (default 12): 6 
+Enter username/email: salina
 
 ## Output Example
-Generated Password: t'%|pg
+Generated Password: AjfN|)9Aqc
 Password saved successfully!
 
 ## Project Structure
-password_generator_project/ │ 
-├── password_generator/ │ 
-├── __init__.py │ 
-└── password_generator.py │ 
+password_generator_project/ 
+│ 
+├── password_generator/ 
+│       ├── __init__.py 
+│       └── generator.py  
 ├── README.md 
-├── setup.py 
-└── pyproject.toml
+├── pyproject.toml
+└── setup.py
 
 ## Contributing
-
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is open-source and available under the MIT License.
 
-👩##Author
+## Author
 Salina Shrestha

@@ -1,2 +1,4 @@
-from .password_generator import PasswordGenerator
+from .generator import PasswordGenerator
+
+__all__ = ["PasswordGenerator"]
 
