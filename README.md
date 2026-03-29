@@ -11,7 +11,7 @@ A simple Python project that generates strong passwords and saves them to a file
 
 ## Installation
 
-pip install 
+pip install passwordgenerator-salina==0.1.0
 
 ## How to Run
 
