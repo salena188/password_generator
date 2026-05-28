@@ -16,7 +16,7 @@ pip install passwordgenerator-salina==0.1.0
 ## How to Run
 
 run program:
-python passowrd_generator.py
+python password_generator.py
 
 ## Input Example
 Password Generator and Save
@@ -32,7 +32,7 @@ password_generator_project/
 │ 
 ├── password_generator/ 
 │       ├── __init__.py 
-│       └── generator.py  
+│       └── password_generator.py  
 ├── README.md 
 ├── pyproject.toml
 └── setup.py
